@@ -33,7 +33,7 @@ apt-get -y install php openssh git wget
 
 ```
 git clone https://github.com/shubhamtiwari2244217/Camera-Hacking.git
-cd CamPhish
+cd Camera-Hacking
 bash camphish.sh
 ```
 ### Video Demo
